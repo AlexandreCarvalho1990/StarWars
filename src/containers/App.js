@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import UserCardList from './UserCardList';
-import NavButtons from './NavButtons';
-import SearchBar from './SearchBar';
+import UserCardList from '../components/UserCardList';
+import NavButtons from '../components/NavButtons';
+import SearchBar from '../components/SearchBar';
 import './App.css';
 
 class App extends Component {
