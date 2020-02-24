@@ -23,7 +23,7 @@ class App extends Component {
     this.setState({ page: this.state.page-1});
   }
 
-    pageChangePlus = () => {
+  pageChangePlus = () => {
     if (this.state.page <= 8)
     this.setState({page: this.state.page+1});
   }
@@ -61,8 +61,7 @@ class App extends Component {
       page={page}
       />
       </div>
-      ) : 
-    (<h1>Loaddding</h1>)
+      ): (<h1 className='tc'>Loading...</h1>)
   }
 }
 export default App;
