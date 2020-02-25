@@ -50,7 +50,7 @@ class App extends Component {
       )
     return users.length > 0 ? (
       <div className='tc'>
-      <h1>StartWars Characters Project!</h1>
+      <h1>StartWars Characters API Project</h1>
         <div className='flex flex-wrap justify-center'>
           <SearchBar searchChange= {this.onSearchChange}/>
           <NavButtons pageChangePlus={this.pageChangePlus} 

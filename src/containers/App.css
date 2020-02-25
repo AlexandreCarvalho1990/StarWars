@@ -1,5 +1,12 @@
+@font-face {
+font-family: 'OdibeeSans-Regular';
+font-style: normal;
+font-weight: normal;
+src: local('OdibeeSans-Regular'), url('OdibeeSans-Regular.ttf') format('ttf');
+}
+
 h1 {
-  font-family: 'STAR JEDI OUTLINE';
+  font-family: 'OdibeeSans-Regular';
   font-weight: 200;
-  color: white;
+  color: yellow;
 }
