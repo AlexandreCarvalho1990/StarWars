@@ -1,27 +1,37 @@
 {
   "files": {
     "main.css": "/StarWars/static/css/main.4080952e.chunk.css",
-    "main.js": "/StarWars/static/js/main.a0033d90.chunk.js",
-    "main.js.map": "/StarWars/static/js/main.a0033d90.chunk.js.map",
+    "main.js": "/StarWars/static/js/main.9e95cb56.chunk.js",
+    "main.js.map": "/StarWars/static/js/main.9e95cb56.chunk.js.map",
     "runtime-main.js": "/StarWars/static/js/runtime-main.5756cce3.js",
     "runtime-main.js.map": "/StarWars/static/js/runtime-main.5756cce3.js.map",
     "static/css/2.eb45ad44.chunk.css": "/StarWars/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.d696a500.chunk.js": "/StarWars/static/js/2.d696a500.chunk.js",
-    "static/js/2.d696a500.chunk.js.map": "/StarWars/static/js/2.d696a500.chunk.js.map",
+    "static/js/2.cade71b7.chunk.js": "/StarWars/static/js/2.cade71b7.chunk.js",
+    "static/js/2.cade71b7.chunk.js.map": "/StarWars/static/js/2.cade71b7.chunk.js.map",
     "index.html": "/StarWars/index.html",
-    "precache-manifest.b97a957cafa88360424ebd2fa5ae91cc.js": "/StarWars/precache-manifest.b97a957cafa88360424ebd2fa5ae91cc.js",
+    "precache-manifest.c272b86f0989e1a0488432ff94d02c5a.js": "/StarWars/precache-manifest.c272b86f0989e1a0488432ff94d02c5a.js",
     "service-worker.js": "/StarWars/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/StarWars/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.4080952e.chunk.css.map": "/StarWars/static/css/main.4080952e.chunk.css.map",
-    "static/js/2.d696a500.chunk.js.LICENSE.txt": "/StarWars/static/js/2.d696a500.chunk.js.LICENSE.txt",
+    "static/js/2.cade71b7.chunk.js.LICENSE.txt": "/StarWars/static/js/2.cade71b7.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/StarWars/static/media/1.c421ff30.png",
+    "static/media/10.png": "/StarWars/static/media/10.6576a96a.png",
+    "static/media/2.png": "/StarWars/static/media/2.5a37cc9f.png",
+    "static/media/3.png": "/StarWars/static/media/3.ffec57ac.png",
+    "static/media/4.png": "/StarWars/static/media/4.929ded25.png",
+    "static/media/5.png": "/StarWars/static/media/5.cba5690e.png",
+    "static/media/6.png": "/StarWars/static/media/6.65ca5f6a.png",
+    "static/media/7.png": "/StarWars/static/media/7.41ba4b31.png",
+    "static/media/8.png": "/StarWars/static/media/8.aead98a9.png",
+    "static/media/9.png": "/StarWars/static/media/9.75328c5f.png",
     "static/media/App.css": "/StarWars/static/media/OdibeeSans-Regular.dad7c198.ttf",
     "static/media/index.css": "/StarWars/static/media/background.62b315b5.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.5756cce3.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.d696a500.chunk.js",
+    "static/js/2.cade71b7.chunk.js",
     "static/css/main.4080952e.chunk.css",
-    "static/js/main.a0033d90.chunk.js"
+    "static/js/main.9e95cb56.chunk.js"
   ]
 }
