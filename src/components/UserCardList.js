@@ -1,7 +1,7 @@
 import React from 'react';
 import UserCard from './UserCard';
 
-const UserCardList = ({ users, page }) => {
+const UserCardList = ({ users, pageNumber }) => {
   return (
     <div>
       {
@@ -9,7 +9,7 @@ const UserCardList = ({ users, page }) => {
           return (
             <UserCard
               key={i}
-              id={Math.floor(parseInt(user.name, 22))}
+              id={pageNumber===1? i: '?'}
               info={user}
               />
           );

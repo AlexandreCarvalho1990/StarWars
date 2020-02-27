@@ -58,7 +58,7 @@ class App extends Component {
           />
         </div>
       <UserCardList users={filteredUsers}
-      page={page}
+      pageNumber={page}
       />
       </div>
       ): (<h1 className='tc'>Loading...</h1>)
